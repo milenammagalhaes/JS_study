@@ -21,3 +21,4 @@ const name = `rafael`
 name.toUpperCase()
 
 const nova = 32
+const baby = `rafael`
