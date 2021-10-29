@@ -20,3 +20,4 @@ user.logout(user.name)
 const name = `rafael`
 name.toUpperCase()
 
+const nova = 32
